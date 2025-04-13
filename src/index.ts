@@ -1,6 +1,6 @@
 /**
  * TypeScript Calculator
- * Uma simples biblioteca de calculadora para Node.js testando aqui
+ * Uma simples biblioteca de calculadorasdasdasd asd as da para Node.js testando aas asd as das dasd asd qui
  */
 
 export class Calculator {
