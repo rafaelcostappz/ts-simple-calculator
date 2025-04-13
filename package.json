@@ -1,0 +1,44 @@
+{
+    "name": "ts-simple-calculator",
+    "version": "1.0.0",
+    "description": "Uma biblioteca de calculadora simples em TypeScript",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+      "build": "tsc",
+      "test": "jest",
+      "prepublish": "npm run build",
+      "lint": "eslint . --ext .ts"
+    },
+    "keywords": [
+      "calculator",
+      "typescript",
+      "math",
+      "utility"
+    ],
+    "author": "SEU_NOME",
+    "license": "MIT",
+    "devDependencies": {
+      "@types/jest": "^29.5.5",
+      "@types/node": "^20.6.3",
+      "@typescript-eslint/eslint-plugin": "^6.7.2",
+      "@typescript-eslint/parser": "^6.7.2",
+      "eslint": "^8.50.0",
+      "jest": "^29.7.0",
+      "ts-jest": "^29.1.1",
+      "typescript": "^5.2.2"
+    },
+    "files": [
+      "dist",
+      "README.md",
+      "LICENSE"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/seu-usuario/ts-simple-calculator.git"
+    },
+    "bugs": {
+      "url": "https://github.com/seu-usuario/ts-simple-calculator/issues"
+    },
+    "homepage": "https://github.com/seu-usuario/ts-simple-calculator#readme"
+  }
