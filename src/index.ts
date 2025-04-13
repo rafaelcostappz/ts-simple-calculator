@@ -1,6 +1,6 @@
 /**
  * TypeScript Calculator
- * Uma simples biblioteca de calculadorasdasdasd asd as da para Node.js testando aas asd as das dasd asd qui
+ * Uma simples biblioteca de calculadoasd asd asd asd asd asrasdasdasd asd as da para Node.js testando aas asd as das dasd asd qui
  */
 
 export class Calculator {
@@ -15,7 +15,7 @@ export class Calculator {
     }
   
     /**
-     * Subtrai dois números asopdk aoskd poaskpd apsod k
+     * Subtrai dois números
      * @param a Primeiro número
      * @param b Segundo número
      * @returns A diferença entre a e b
