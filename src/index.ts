@@ -6,7 +6,7 @@
 export class Calculator {
     /**
      * Soma dois números
-     * @param a Primeiro número
+     * @param a Primeiro númeroasda sdas dasd
      * @param b Segundo número
      * @returns A soma de a e b
      */
